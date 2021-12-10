@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+main{
+    width: 800px;
+    margin: auto;
+    background-color: darkorange;
+
+}
+header{
+    text-align: center;
+    color: darkslategrey;
+}
